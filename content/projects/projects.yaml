@@ -1,0 +1,28 @@
+- title: Weather App
+  description: A simple weather build with the help of Open Weather API.This is just a simple weather app that usually predicts the weather.
+  cover: tech_cover.png
+  repo: https://github.com/mohanmonu777/myWeatherApp
+  date: Aug 9, 2018
+  tags:
+    - Android
+    - Java
+
+- title: Game of Chats
+  description: A simple Blog + Chat App build using Flutter and inspired by Game of Thrones
+  cover: game_of_chats_cover.png
+  demo: http://download1145.mediafire.com/660shu5qzu8g/t7qe92xbvuv353u/Game+Of+Chats.apk
+  repo: https://github.com/mohanmonu777/Game-of-chats-Flutterchatapp
+  date: Jan 27, 2019
+  tags:
+    - Firebase
+    - Flutter
+
+- title: Firebase Articles
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  cover: bro_cover.png
+  demo: https://www.mediafire.com/file/rlc30odk1ep4w9v/app-release.apk/file
+  repo: https://github.com/mohanmonu777/firebaseArticles
+  date: Jun 4, 2019
+  tags:
+    - Firebase
+    - Flutter
